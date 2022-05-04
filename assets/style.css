@@ -218,7 +218,7 @@ section {
 }
 
 /*Meet Your Trainers*/
-/* trainer 1*/
+
 
 .trainers {
     text-align: center;
@@ -276,5 +276,31 @@ section {
 
 }
 
-/* Trainer 2*/
+/*Reach out sections*/
+
+.contact {
+    text-align: center;
+    background: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+
+}
+
+.contat-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+
+}
 
