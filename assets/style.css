@@ -304,3 +304,22 @@ section {
 
 }
 
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px o;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+
+}
+
+.contact-info a {
+    color: #fce138;
+
+}
+
