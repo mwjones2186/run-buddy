@@ -278,6 +278,7 @@ section {
 
 /*Reach out sections*/
 
+
 .contact {
     text-align: center;
     background: #024e76;
@@ -291,10 +292,11 @@ section {
 .contact-info iframe {
     width: 400px;
     height: 400px;
+    
 
 }
 
-.contat-info div {
+.contact-info div {
     width: 410px;
     display: inline-block;
     vertical-align: top;
@@ -307,6 +309,8 @@ section {
 .contact-info h3 {
     color: #fce138;
     font-size: 32px;
+    
+    
 
 }
 
@@ -315,11 +319,15 @@ section {
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
+    color: white;
+        
 
 }
 
 .contact-info a {
     color: #fce138;
+   
+    
 
 }
 
